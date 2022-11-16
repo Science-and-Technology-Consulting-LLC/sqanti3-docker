@@ -1,7 +1,7 @@
 # Dockerfile for SQANTI3
 # https://github.com/ConesaLab/SQANTI3
 
-FROM python:3.11-rc-slim
+FROM python:3.12-rc-slim
 
 MAINTAINER Joel Nitta joelnitta@gmail.com
 
